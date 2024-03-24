@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/betting/META"
+  "_build/install/default/lib/betting/dune-package"
+  "_build/install/default/lib/betting/opam"
+]
+bin: [
+  "_build/install/default/bin/betting"
+]
